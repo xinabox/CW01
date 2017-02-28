@@ -21,6 +21,8 @@ This ☒CHIP is included in the DemoKit.
 
 A simple to understand guide on how to bring support for CW01 module into the Arduino environment can be found on the [ESP8266 Community Forum](https://github.com/esp8266/Arduino) github.
 
+To install the ☒CHIP libraries please followed the guide provided on the [Arduino Website](https://www.arduino.cc/en/Guide/Libraries) under "**Importing a .zip Library**".
+
 ## Requirements
 
 - Installation of the Arduino IDE 1.8.1 from the [Arduino Website](https://www.arduino.cc/en/main/software)
