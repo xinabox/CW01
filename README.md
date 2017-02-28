@@ -24,5 +24,6 @@ A simple to understand guide on how to bring support for CW01 module into the Ar
 ## Requirements
 
 - Installation of the Arduino IDE 1.8.1 from the [Arduino Website](https://www.arduino.cc/en/main/software)
+- Installation of the [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)
 - ☒CHIP [Core Library](https://github.com/xinabox/xCore)
 - ☒CHIP CW01 or ESP8266 Module
