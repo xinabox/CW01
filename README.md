@@ -28,4 +28,4 @@ To install the ☒CHIP libraries please followed the guide provided on the [Ardu
 - Installation of the Arduino IDE 1.8.1 from the [Arduino Website](https://www.arduino.cc/en/main/software)
 - Installation of the [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)
 - ☒CHIP [Core Library](https://github.com/xinabox/xCore)
-- ☒CHIP CW01 or ESP8266 Module
+- ☒CHIP CW01 
