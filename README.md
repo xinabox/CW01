@@ -2,7 +2,9 @@
 
 ## General Description
 
-This ☒CHIP forms part of the core modules and is equipped with WiFi. The WiFi module transfers the data collected by the sensors and adds this data via the internet to the Big Data database. The data storage on the cloud ensures that you can access the data collected by the sensors in the future from any location. The CW01 ☒CHIP is housed in an extremely compact 2U×2U ☒CHIP with three connection ports. 
+This ☒CHIP forms part of the core modules and is equipped with WiFi. 
+
+The CW01 ☒CHIP is housed in an extremely compact 2U×2U ☒CHIP with three connection ports. 
 
 ## Key  Features
 
