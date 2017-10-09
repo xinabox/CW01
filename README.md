@@ -34,3 +34,5 @@ To install the ☒CHIP libraries please followed the guide provided on the [Ardu
 - ☒CHIP [Core Library](https://github.com/xinabox/xCore)
 - ☒CHIP CW01 
 
+## Switch Configuration for IP01
+- [☒IP01 Switch Guide](https://github.com/xinabox/xIP01/blob/master/notes/CW01.md)
