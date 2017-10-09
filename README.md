@@ -33,3 +33,4 @@ To install the ☒CHIP libraries please followed the guide provided on the [Ardu
 - Installation of the [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)
 - ☒CHIP [Core Library](https://github.com/xinabox/xCore)
 - ☒CHIP CW01 
+
