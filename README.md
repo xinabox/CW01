@@ -2,6 +2,8 @@
 <img src="extras/CW01 V1.0.0.JPG" width="35%" height="auto" align="right">
 Core WiFi Module based on ESP8266.
 
+This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CW01/).
+
 ## General Description
 
 This ☒CHIP forms part of the core modules and is equipped with WiFi. 
