@@ -1,5 +1,5 @@
 # ☒CHIP CW01
-<img src="extras/CW01 V1.0.0.JPG" width="300" align="right">
+<img src="extras/CW01 V1.0.0.JPG" width="35%" height="auto" align="right">
 Core WiFi Module based on ESP8266.
 
 ## General Description
