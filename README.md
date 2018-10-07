@@ -34,4 +34,4 @@ A simple to understand guide on how to bring support for CW01 module into the Ar
 - ☒CHIP CW01 
 
 ## Switch Configuration for IP01
-- For users with IP01 (V0.4.11) [☒IP01 Switch Guide](https://github.com/xinabox/xIP01/blob/master/notes/CW01.md)
+- For users with IP01 (V0.4.11) [☒IP01 Switch Guide](https://github.com/xinabox/IP01/blob/master/notes/CW01.md)
