@@ -25,13 +25,13 @@ This ☒CHIP is included in the DemoKit.
 
 ## Installation Guide
 
-A simple to understand guide on how to bring support for CW01 module into the Arduino environment can be found on the [ESP8266 Community Forum](https://github.com/esp8266/Arduino) github.
+A simple to understand guide on how to bring support for CW01 module into the Arduino environment can be found on the [Arduino-ESP8266](https://github.com/xinabox/Arduino-ESP8266) github.
 
 ## Requirements
 
 - Installation of the [Arduino IDE](https://www.arduino.cc/en/main/software)
-- Installation of the [ESP8266 Arduino Core](https://github.com/esp8266/Arduino)
+- Installation of the [ESP8266 Arduino Core](https://github.com/xinabox/Arduino-ESP8266)
 - ☒CHIP CW01 
 
 ## Switch Configuration for IP01
-- [☒IP01 Switch Guide](https://github.com/xinabox/xIP01/blob/master/notes/CW01.md)
+- For users with IP01 (V0.4.11) [☒IP01 Switch Guide](https://github.com/xinabox/xIP01/blob/master/notes/CW01.md)
