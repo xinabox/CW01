@@ -24,7 +24,7 @@ This xChip forms part of the core modules and is equipped with WiFi.
 
 ## Arduino pins
 | Description   | Arduino Pin # |
-| ------------- | ------------- |
+| ------------- |:---:  |
 | RGB LED Red  | 12  |
 | RGB LED Green  | 13  |
 | RGB LED Blue  | 5  |
