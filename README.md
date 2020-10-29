@@ -21,3 +21,12 @@ This xChip forms part of the core modules and is equipped with WiFi.
 - Installation of the [ESP8266 Arduino Core](https://github.com/esp8266/Arduino#installing-with-boards-manager)
 - Connect the CW01 to the IP0x using a connector.
 - Plug the circuit into your USB port on your computer.
+
+## Arduino pins
+| Description   | Arduino Pin # |
+| ------------- | ------------- |
+| RGB LED Red  | 12  |
+| RGB LED Green  | 13  |
+| RGB LED Blue  | 5  |
+| ISC SCL | 14  |
+| I2C SDA  | 2  |
