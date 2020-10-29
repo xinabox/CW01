@@ -28,5 +28,5 @@ This xChip forms part of the core modules and is equipped with WiFi.
 | RGB LED Red  | 12  |
 | RGB LED Green  | 13  |
 | RGB LED Blue  | 5  |
-| ISC SCL | 14  |
+| I2C SCL | 14  |
 | I2C SDA  | 2  |
