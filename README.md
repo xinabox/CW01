@@ -23,10 +23,10 @@ This xChip forms part of the core modules and is equipped with WiFi.
 - Plug the circuit into your USB port on your computer.
 
 ## Arduino pins
-| Description   | Arduino Pin # |
-| ------------- |:---:  |
-| RGB LED Red  | 12  |
-| RGB LED Green  | 13  |
-| RGB LED Blue  | 5  |
-| I2C SCL | 14  |
-| I2C SDA  | 2  |
+| Description | Arduino Pin # |
+| :--- |:---: |
+| RGB LED Red | `12` |
+| RGB LED Green | `13` |
+| RGB LED Blue | `5` |
+| I2C SCL | `14` |
+| I2C SDA  | `2` |
