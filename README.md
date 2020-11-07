@@ -16,6 +16,7 @@ This xChip forms part of the core modules and is equipped with WiFi.
 - 4M bytes SPI Flash for programming.
 
 ## Arduino
+- Video: [Arduino coding with the CW01](https://youtu.be/aZw27vrkZrI)
 - You need an IP01 or IP02 to program the CW01
 - Installation of the [Arduino IDE](https://www.arduino.cc/en/main/software)
 - Installation of the [ESP8266 Arduino Core](https://github.com/esp8266/Arduino#installing-with-boards-manager)
